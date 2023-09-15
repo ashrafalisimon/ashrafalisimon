@@ -1,4 +1,4 @@
-![I am Ashraf Ali](https://media-exp1.licdn.com/dms/image/C5616AQE2Y7Q1M2rXow/profile-displaybackgroundimage-shrink_350_1400/0/1658114485461?e=1663804800&v=beta&t=RbeN_32Y4agCYIx-iokobj2NypSLax35xEJImzDvYLM)
+![I am Ashraf Ali](https://drive.google.com/file/d/1wG_oBTtWXs_rmK1qD1TzCnZiazBzCbhk/view)
 
 <h1 align="center">Hi 👋, I'm Ashraf Ali</h1>
 <h3 align="center">Full Stack Developer & Web Desinger</h3>
