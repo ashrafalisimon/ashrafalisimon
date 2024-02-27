@@ -1,10 +1,10 @@
-![I am Ashraf Ali](https://drive.google.com/file/d/1wG_oBTtWXs_rmK1qD1TzCnZiazBzCbhk/view)
+![I am Ashraf Ali]([https://drive.google.com/file/d/1wG_oBTtWXs_rmK1qD1TzCnZiazBzCbhk/view](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/420039844_1706574509869044_7903877300006354769_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHIbQIUAJtav9uItwHAcNrgjislkmvkXMqOKyWSa-Rcym9HCyL-PMGfpZTmRQAarqRtgzT7DP4zz7X9xpQ0hlZO&_nc_ohc=eVhndOjSm3gAX9tWnKa&_nc_ht=scontent.fdac99-1.fna&oh=00_AfBK3ASUq7dMcV2KM7oAaVTMuoxPuyujzXp6ehOq7fOt2Q&oe=65E2A05A))
 
 <h1 align="center">Hi 👋, I'm Ashraf Ali</h1>
-<h3 align="center">Full Stack Developer & Web Desinger</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 
-Welcome to my GitHub profile. I'm Ashraf Ali. I'm a Full Stack MERN Stack Developer. Front-end designing & implementing highly-responsive user interface components by deploying React concepts. Proficient in translating designs into high-quality code, and writing application interface code javascript and ReactJS. Proficient in HTML, CSS, javascript, bootstrap, tailwind CSS, and React; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Figma,
+Welcome to my GitHub profile. I'm Ashraf Ali. I'm a full-stack MERN Stack Developer. Front-end designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs into high-quality code, and writing application interface code javascript and ReactJS. Proficient in HTML, CSS, javascript, bootstrap, tailwind CSS, and React; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Figma,
 Adobe XD & Adobe Photoshop. 
 
 Key Qualifications & Responsibilities
