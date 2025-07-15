@@ -1,4 +1,4 @@
-![I am Ashraf Ali](https://i.ibb.co/pW1qHSQ/my-pic-passport-sizeno-background.png)
+![I am Ashraf Ali](https://i.ibb.co/6cTnSmWT/40505.jpg)
 
 <h1 align="center">Hi 👋, I'm Ashraf Ali</h1>
 <h3 align="center">Full Stack Developer </h3>
