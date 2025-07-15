@@ -4,12 +4,12 @@
 <h3 align="center">Full Stack Developer </h3>
 
 
-Welcome to my GitHub profile. I'm Ashraf Ali. I'm a full-stack MERN Stack Developer. Front-end designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs into high-quality code, and writing application interface code javascript and ReactJS. Proficient in HTML, CSS, javascript, bootstrap, tailwind CSS, and React; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Figma,
+Welcome to my GitHub profile. I'm Ashraf Ali. I'm a full-stack MERN Stack Developer. Front-end designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs into high-quality code, and writing application interface code JavaScript and ReactJS. Proficient in HTML, CSS, JavaScript, Bootstrap, tailwind CSS, and React; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Figma,
 Adobe XD & Adobe Photoshop. 
 
 Key Qualifications & Responsibilities
 - Maximized applications’ efficiency, data quality, scope, operability, and flexibility.
-- Managed, optimized, and updated NodeJs databases as necessary.
+- Managed, optimized, and updated Node.js databases as necessary.
 - Developed app integration with REST and other APIs for social media logins, payment processors, and other services.
 
 Skills: 
